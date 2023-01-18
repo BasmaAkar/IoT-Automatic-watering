@@ -3,7 +3,7 @@ Objectif : Simuler un système d'arrosage automatique de pelouse d'un jardin ave
 
 ![image](https://user-images.githubusercontent.com/101791324/209539550-7327f0b5-e2b8-42ac-8543-05bc678b497a.png)
 
-### **The**necessary elements: : 
+### **The necessary elements: : 
 -Water level monitor (connected with a water level sensor),
 -Home gateway,
 -Water drain,
