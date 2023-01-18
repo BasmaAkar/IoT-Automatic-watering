@@ -4,11 +4,11 @@ Objectif : Simuler un système d'arrosage automatique de pelouse d'un jardin ave
 ![image](https://user-images.githubusercontent.com/101791324/209539550-7327f0b5-e2b8-42ac-8543-05bc678b497a.png)
 
 ### **The necessary elements: : 
--Water level monitor (connected with a water level sensor),
--Home gateway,
--Water drain,
--Lawn sprinkler
--Smartphone
+Water level monitor (connected with a water level sensor),
+Home gateway,
+Water drain,
+Lawn sprinkler
+Smartphone
 ![image](https://user-images.githubusercontent.com/101791324/209539597-96adb833-3b3b-4de4-83f5-abd1766b2b32.png)
 ### Configuration** : 
 ![image](https://user-images.githubusercontent.com/101791324/209539834-6c2ec78e-6326-417f-917c-04a3d1b6cf79.png)
